@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 from starlette.responses import RedirectResponse
 
+#PASOS
 #py -m venv fastapi
 #fastapi\Scripts\activate.bat
 #pip install library
