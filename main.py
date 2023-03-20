@@ -15,7 +15,7 @@ app = FastAPI(title = 'Consultas de movies y TV shows',
 
 df_movies = pd.read_csv('Movies.csv', sep = ';')
 df_actors = pd.read_csv('Actors.csv', sep = ';')
-df_total = pd.read_csv('Total consultas.csv', sep = ';')
+df_total = pd.read_csv('Total querys.csv', sep = ';')
 
 @app.get('/get_max_duration')
 async def get_max_duration( year: int, platform: str , duration_type: str):
@@ -82,4 +82,4 @@ async def get_actor(platform: str, year: int):
     actor = actors_year.value_counts().index[0]
     appears = actors_year.value_counts().max()
     
-    return f'El actor que más se repite en la plataforma \'{platform}\', en el año = {year}, es {actor}, con un total de {appears} apariciones.'
+    return f'El actor que más se repite en la plataforma \'{platform}\', en el año {year}, es {actor}, con un total de {appears} apariciones.'
