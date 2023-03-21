@@ -45,4 +45,5 @@ datos limpios a una API, que permita al usuario o cualquier persona ingresar al 
    <img src = 'https://res.cloudinary.com/practicaldev/image/fetch/s--iWNIikKc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u6kmbieir6su8dt70z3l.png' title = 'Render' alt = 'Render' width = '40' height = '40' />&nbsp;
   
 ---
-  
+### Parte de ETL y EDA
+Para el proceso de ETL, importé los archivos en el Visual Studio Code, para manejar con el lenguaje Python y sus determinadas librerias. Hice una visualización de los datos en general, para poder ver la relación entre los mismos y poder hacer un debido manejo a los nulos, faltantes y atípicos. Por ejemplo, para datos como el cast, el director o el lugar donde se realizó la producción, era imposible hallar una relación con los otros datos del dataset. Sin embargo, habían identificadores o relación entre algunos datos, como los datos de tipo numérico, ya que podíamos solucionar los nulos de estos, gracias a la variación, la moda y el promedio, creando y analizando filtros por plataforma y tipo de producción; Movies o TV shows. Este proceso se pudo concluir 
