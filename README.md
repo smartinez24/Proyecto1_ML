@@ -30,5 +30,12 @@ By Carlos Martinez
 
 ---
 ### Introducción
-Primer proyecto de la parte de Labs del Bootcamp SoyHenry. Proceso de extracción de los archivos tipo csv que se encontraban almacenados en la web, transformación de estos para poder llevar a cabo consultas sobre registros de producciones en plataformas de streaming como Amazon, Disney, Hulu y Netflix. Por último, una carga de los
-datos limpios a una API, que permita al usuario o cualquier persona ingresar al servicio web y hacer consultas sobre los registros. También, un modelo de Machine Learning, posterior al ETL y Análisis exploratorio de los datos para saber si dado un usuario del sistema, se le recomienda o no una película. 
+Primer proyecto de la parte de Labs del Bootcamp SoyHenry. Proceso de extracción de los archivos tipo csv que se encontraban almacenados en la web y transformación de estos para poder llevar a cabo consultas sobre registros de producciones en plataformas de streaming como Amazon, Disney, Hulu y Netflix. Por último, una carga de los
+datos limpios a una API, que permita al usuario o cualquier persona ingresar al servicio web y hacer consultas sobre los registros. También, un modelo de Machine Learning, posterior al ETL y Análisis exploratorio de los datos para saber si dado un usuario del sistema, se le recomienda o no una película.
+    
+---
+<h3> Herramientas usadas: </h3>
+<div>
+   <img src = 'https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg' title = 'Slack' alt = 'Slack' width = '40' height = '40' />&nbsp;
+   <img src = '' title = '' alt = '' width = '40' height = '40' />&nbsp;
+  
