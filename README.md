@@ -56,5 +56,10 @@ Para el proceso de ETL y EDA, importé los archivos en el Visual Studio Code, pa
   
 ---
 ### [API](https://fastapi-hbsx.onrender.com/docs)
-Para la creación de la api, se creó un entorno virtual de Python, que me permitió trabajar las consultas con el modulo de fastAPI. Este modulo permite crear una plataforma y/o servicio web, por medio del servidor Render, que trabaja bajo sistema HTTP simples. En este [enlace] , podemo
+Para la creación de la api, se creó un entorno virtual de Python, que me permitió trabajar las consultas con el modulo de fastAPI. Este modulo permite crear una plataforma y/o servicio web, por medio del servidor Render, que trabaja bajo sistema HTTP simples. En este [enlace](https://fastapi-hbsx.onrender.com/docs), podemos realizar las consultas siguientes: 
+  - Película con mayor duración con filtros opcionales de AÑO, PLATAFORMA Y TIPO DE DURACIÓN. (la función debe llamarse get_max_duration(year, platform, duration_type)).
+  - Cantidad de películas por plataforma con un puntaje mayor a XX en determinado año (la función debe llamarse get_score_count(platform, scored, year)).
+  - Cantidad de películas por plataforma con filtro de PLATAFORMA. (La función debe llamarse get_count_platform(platform)).
+  - Actor que más se repite según plataforma y año. (La función debe llamarse get_actor(platform, year)).
 
+---
