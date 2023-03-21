@@ -17,7 +17,7 @@ By Carlos Martinez DTS - 08
   <a href = 'https://github.com/smartinez24/Proyecto1_ML.git'>
     <img src = 'https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt = 'Github Badge' />
   
-  <a href = 'https://studio.youtube.com/channel/UCuXJk_xMmGLQj8kXyYSjTnQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D'>
+  <a href = 'https://youtu.be/JW_bOy0YN5Q'>
     <img src = 'https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt = 'Youtube Badge' />
   </a>
 </div>
@@ -67,7 +67,7 @@ Para la creación de la api, se creó un entorno virtual de Python, que me permi
 Una vez realizado el proceso de ETL y EDA, pasé al sistema de recomendación. Con los datos limpios y un análisis adecuado de la información que se obtuvo de los datasets, se creo un modelo supervisado, que de acuerdo con la calificación a producciones anteriores que visualizó el usuario en una fecha determinada, permitiera evaluar si al recomendar una nueva producción del registro de producciones, que el usuario no haya visto, determine si se le recomienda o no. 
   
 ---
-### [Video](https://studio.youtube.com/channel/UCuXJk_xMmGLQj8kXyYSjTnQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D).
+### [Video](https://youtu.be/JW_bOy0YN5Q).
 En el siguiente [enlace](https://studio.youtube.com/channel/UCuXJk_xMmGLQj8kXyYSjTnQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D) estará disponible un video haciendo la presentación del proyecto y los procesos realizados para llegar al producto final y poder satisfacer las consultas del proyecto.
   
 <div id = "header" align = "center">
