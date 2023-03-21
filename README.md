@@ -31,7 +31,7 @@ By Carlos Martinez DTS - 08
 ---
 ### Introducción
 Primer proyecto de la parte de Labs del Bootcamp SoyHenry. Proceso de extracción de los archivos tipo csv que se encontraban almacenados en la web y transformación de estos para poder llevar a cabo consultas sobre registros de producciones en plataformas de streaming como Amazon, Disney, Hulu y Netflix. Por último, una carga de los
-datos limpios a una API, que permita al usuario o cualquier persona ingresar al servicio web y hacer consultas sobre los registros. También, un modelo de Machine Learning, posterior al ETL y Análisis exploratorio de los datos para saber si dado un usuario del sistema, se le recomienda o no una película.
+datos limpios a una API, que permita al usuario o cualquier persona ingresar al servicio web y hacer consultas sobre los registros. También, un modelo de Machine Learning, posterior al ETL y Análisis exploratorio de los datos para saber si dado un usuario del sistema, se le recomienda o no una producción.
     
 ---
 <h3> Herramientas usadas: </h3>
