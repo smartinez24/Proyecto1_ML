@@ -55,6 +55,6 @@ Para el proceso de ETL y EDA, importé los archivos en el Visual Studio Code, pa
   - El campo duration debe convertirse en dos campos: duration_int y duration_type. El primero será un integer y el segundo un string indicando la unidad de medición de duración: min (minutos) o season (temporadas).
   
 ---
-### API
-Para la creación de la api, se creó un entorno virtual de Python,   
+### [API](https://fastapi-hbsx.onrender.com/docs)
+Para la creación de la api, se creó un entorno virtual de Python, que me permitió trabajar las consultas con el modulo de fastAPI. Este modulo permite crear una plataforma y/o servicio web, por medio del servidor Render, que trabaja bajo sistema HTTP simples. En este [enlace] , podemo
 
