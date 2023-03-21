@@ -71,4 +71,5 @@ Una vez realizado el proceso de ETL y EDA, pasé al sistema de recomendación. C
 En el siguiente [enlace](https://studio.youtube.com/channel/UCuXJk_xMmGLQj8kXyYSjTnQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D) estará disponible un video haciendo la presentación del proyecto y los procesos realizados para llegar al producto final y poder satisfacer las consultas del proyecto.
   
 <div id = "header" align = "center">
-  <h1 align = 'Center'> !Bienvenido a mi primer proyecto como Data engineer! </>
+  <h1 align = 'Center'> !Gracias! </>
+</div>
