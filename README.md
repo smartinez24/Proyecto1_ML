@@ -1,5 +1,5 @@
-# Proyecto individual ML - Data 08
-By Carlos Martinez
+# Proyecto individual ML - Data Scientist
+By Carlos Martinez DTS - 08
 <div id = "header" align = "center">
   <img = src = "https://i.pinimg.com/564x/9a/3f/3f/9a3f3f56b757dcac242958c82e2d7270.jpg" width = "500" />
     <h1 align = 'Center'> !Bienvenido a mi primer proyecto como Data engineer! </>
