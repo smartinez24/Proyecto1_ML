@@ -2,7 +2,7 @@
 By Carlos Martinez DTS - 08
 <div id = "header" align = "center">
   <img = src = "https://i.pinimg.com/564x/9a/3f/3f/9a3f3f56b757dcac242958c82e2d7270.jpg" width = "500" />
-    <h1 align = 'Center'> !Bienvenido a mi primer proyecto como Data engineer! </>
+    <h1 align = 'Center'> ¡Bienvenido a mi primer proyecto como Data engineer! </>
     <h2 align = 'Center'> ETL(Extract, Transform and Load), EDA(Exploratory Data Analysis) y ML(Machine Learning).
     </2>
 </div>
@@ -71,5 +71,5 @@ Una vez realizado el proceso de ETL y EDA, pasé al sistema de recomendación. C
 En el siguiente [enlace](https://youtu.be/JW_bOy0YN5Q) estará disponible un video haciendo la presentación del proyecto y los procesos realizados para llegar al producto final y poder satisfacer las consultas del proyecto.
   
 <div id = "header" align = "center">
-  <h1 align = 'Center'> !Gracias! </>
+  <h1 align = 'Center'> ¡Gracias! </>
 </div>
