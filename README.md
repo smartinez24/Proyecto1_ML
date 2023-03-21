@@ -36,6 +36,11 @@ datos limpios a una API, que permita al usuario o cualquier persona ingresar al 
 ---
 <h3> Herramientas usadas: </h3>
 <div>
-   <img src = 'https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg' title = 'Slack' alt = 'Slack' width = '40' height = '40' />&nbsp;
+   <img src = 'https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg' title = 'Slack' alt = 'Slack' width = '40' height = '40' />&nbsp;
+   <img src = 'https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg' title = 'Google' alt = 'Google' width = '40' height = '40'/>&nbsp;
+   <img src = 'https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' title = 'VSC' alt = 'VSC' width = '40' height = '40' />&nbsp;
+   <img src = 'https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg' title = 'Windows' alt = 'Windows' width = '40' height = '40' />&nbsp;
+   <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title = 'Python' alt = 'Python' width = '40' height = '40' />&nbsp;
+   <img src = '' title = '' alt = '' width = '40' height = '40' />&nbsp;
    <img src = '' title = '' alt = '' width = '40' height = '40' />&nbsp;
   
